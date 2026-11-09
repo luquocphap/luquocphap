@@ -17,4 +17,4 @@ I work across the stack with **TypeScript, React, Next.js, Node.js, and NestJS**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-📬 **Available for full-time opportunities** · [Get in touch](mailto:luquocphap@gmail.com)
+📬 **Available for full-time opportunities** · [Get in touch](mailto:luquocphap@gmail.com) · [View my portfolio](https://luquocphap.site)
